@@ -1,0 +1,52 @@
+| Churn data (artificial based on claims similar to real world)
+
+discrete.
+
+state: discrete.
+account length: continuous.
+area code: continuous.
+phone number: discrete.
+international plan: discrete.
+voice mail plan: discrete.
+number vmail messages: continuous.
+total day minutes: continuous.
+total day calls: continuous.
+total day charge: continuous.
+total eve minutes: continuous.
+total eve calls: continuous.
+total eve charge: continuous.
+total night minutes: continuous.
+total night calls: continuous.
+total night charge: continuous.
+total intl minutes: continuous.
+total intl calls: continuous.
+total intl charge: continuous.
+number customer service calls: continuous.
+
+*****
+
+ Данные об оттоке (искусственные, основанные на утверждениях, аналогичных реальным)
+
+дискретный.
+
+состояние: дискретное.
+длина счета: непрерывный.
+код города: непрерывный.
+номер телефона: дискретный.
+международный тарифный план: дискретный.
+план голосовой почты: дискретный.
+количество сообщений голосовой почты: непрерывно.
+общее количество минут за день: непрерывно.
+общее количество звонков за день: непрерывно.
+общая дневная плата: непрерывно.
+общее количество минут накануне: непрерывно.
+общее количество звонков накануне: непрерывно.
+общий заряд накануне: непрерывно.
+общее количество ночных минут: непрерывно.
+общее количество ночных вызовов: непрерывно.
+общий ночной заряд: непрерывно.
+общее количество входящих минут: непрерывно.
+общее количество входящих вызовов: непрерывно.
+общая плата за входящие звонки: непрерывно.
+количество звонков в службу поддержки: непрерывно.
+
